@@ -55,4 +55,4 @@ jobs:
           context: .
           platforms: linux/amd64,linux/arm64
           push: true
-          tags: yihong0618/xiaogpt:latest
+          tags: aiden26/xiaogpt:latest
